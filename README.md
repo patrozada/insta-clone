@@ -1,2 +1,2 @@
 # insta-clone
-Instagram clone created with React hookks and tailwind
+Instagram clone created with React hooks and tailwind
